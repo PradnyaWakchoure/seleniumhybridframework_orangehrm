@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-21T18:48:20 IST" name="Default suite" finished-at="2021-11-21T18:48:27 IST" duration-ms="7832">
+    <groups>
+    </groups>
+    <test started-at="2021-11-21T18:48:20 IST" name="Default test" finished-at="2021-11-21T18:48:27 IST" duration-ms="7832">
+      <class name="synchronization.ExplicitlyWaits">
+        <test-method signature="waitsInSelenium()[pri:0, instance:synchronization.ExplicitlyWaits@418e7838]" started-at="2021-11-21T18:48:20 IST" name="waitsInSelenium" finished-at="2021-11-21T18:48:27 IST" duration-ms="7794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitsInSelenium -->
+      </class> <!-- synchronization.ExplicitlyWaits -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
